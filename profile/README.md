@@ -1,6 +1,7 @@
 # Free Gaza Vlogs 🇵🇸
 
-<img src="Free-Gaza-Vlogs-Favicon.png">
+![Classboard](https://raw.githubusercontent.com/Free-Gaza-Vlogs/.github/refs/heads/main/Free-Gaza-Vlogs-Favicon.png)  
+
 
 **Free Gaza Vlogs** is a website that showcases vlogs created by the resilient people of Gaza. These vlogs provide authentic insights into their daily lives, struggles, and experiences, allowing viewers to connect with their stories. Join us in amplifying their voices and spreading awareness: **Free Palestine!**
 
