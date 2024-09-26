@@ -27,7 +27,7 @@ While the vlogs are already available, we welcome contributions in the form of f
 
 ## Contact
 For inquiries, collaborations, or suggestions, please contact us:
-- Email: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+- Email [EmailCurrentlyUnavalive](Unavalible)
 
 
 ---
