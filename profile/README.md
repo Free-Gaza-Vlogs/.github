@@ -1,5 +1,5 @@
 # Free Gaza Vlogs 🇵🇸
-
+![Classboard](Free-Gaza-Vlogs-Favicon.png)  
 ## Description
 **Free Gaza Vlogs** is a website that showcases vlogs created by the resilient people of Gaza. These vlogs provide authentic insights into their daily lives, struggles, and experiences, allowing viewers to connect with their stories. Join us in amplifying their voices and spreading awareness: **Free Palestine!**
 
