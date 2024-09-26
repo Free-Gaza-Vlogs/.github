@@ -1,5 +1,5 @@
 # Free Gaza Vlogs 🇵🇸
-
+![FGV](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)  
 ## Description
 **Free Gaza Vlogs** is a website that showcases vlogs created by the resilient people of Gaza. These vlogs provide authentic insights into their daily lives, struggles, and experiences, allowing viewers to connect with their stories. Join us in amplifying their voices and spreading awareness: **Free Palestine!**
 
