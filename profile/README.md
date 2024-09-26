@@ -16,7 +16,7 @@ The **Free Gaza Vlogs** website features a collection of vlogs made by Gazans, h
 
 ## How to Watch
 Explore and watch the vlogs directly on our website:
-- [Free Gaza Vlogs Website](https://yourwebsite.com) (replace with actual link)
+- [Free Gaza Vlogs Website](https://yourwebsite.com) (Reminder to Workers:replace with actual link)
 
 ## Contribute
 While the vlogs are already available, we welcome contributions in the form of feedback, suggestions, or additional content that highlights the experiences of Gazans.
